@@ -3,3 +3,4 @@ numpy
 scipy
 colorlog
 h5py
+progressbar

@@ -2,3 +2,4 @@ tensorflow==1.0.0
 numpy
 scipy
 colorlog
+h5py
